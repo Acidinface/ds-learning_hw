@@ -1,2 +1,2 @@
-# ds-learning_hw
+# ds-learning
 my homework for ds course
